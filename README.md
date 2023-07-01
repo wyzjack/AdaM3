@@ -1,6 +1,6 @@
 # AdaM$^3$ experiments
 
-This repo provides the code for ICDM 2023 submission "Momentum is All You Need for Data-Driven Adaptive Optimization". 
+This repo provides the code for ICDM 2023 submission "Momentum is All You Need for Data-Driven Adaptive Optimization". The supplementary PDF file is ["ICDM23_AdaM3_supp.pdf"](./ICDM23_AdaM3_supp.pdf)
 
 ## Usage
 
