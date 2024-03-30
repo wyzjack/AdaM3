@@ -69,6 +69,17 @@ In this code, we heavily rely on the code of [AdaBelief](https://github.com/junt
 ## BibTeX
 
 ```BibTeX
+@INPROCEEDINGS{10415832,
+  author={Wang, Yizhou and Kang, Yue and Qin, Can and Wang, Huan and Xu, Yi and Zhang, Yulun and Fu, Yun},
+  booktitle={2023 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Momentum is All You Need for Data-Driven Adaptive Optimization}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1385-1390},
+  keywords={Training;Deep learning;Gradient methods;Adaptation models;Stochastic processes;Task analysis;Standards;adaptive gradient method;data-driven deep learning},
+  doi={10.1109/ICDM58522.2023.00179}}
+
 @article{wang2021rethinking,
   title={Rethinking Adam: A twofold exponential moving average approach},
   author={Wang, Yizhou and Kang, Yue and Qin, Can and Wang, Huan and Xu, Yi and Zhang, Yulun and Fu, Yun},
